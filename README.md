@@ -1,4 +1,4 @@
-# Jaka's Javascript Playground
+# Jaka's JavaScript Playground
 
 This repository contains the code, used when playing around with concepts in JavaScript
 to which I might want to refer back at a later point in time.
